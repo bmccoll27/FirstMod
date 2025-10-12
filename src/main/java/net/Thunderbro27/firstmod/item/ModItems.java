@@ -63,7 +63,7 @@ public class ModItems {
 
 
     //Goobrite Items---------------------------------------------------------------------------
-    public static final RegistryObject<Item> GOOBRITE = ITEMS.register("gloobrite",
+    public static final RegistryObject<Item> GOOBRITE = ITEMS.register("goobrite",
             () -> new Item(new Item.Properties()));
     public static final RegistryObject<Item> GOOBRITE_PICKAXE = ITEMS.register("goobrite_pickaxe",
             () -> new PickaxeItem(ModToolTier.GOOBRITE, new Item.Properties()

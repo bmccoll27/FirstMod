@@ -4,8 +4,8 @@
     "first_mod:ruby_ore",
     "first_mod:ruby_deepslate_ore",
     "first_mod:converter",
-    "first_mod:gloobrite_ore",
-    "first_mod:gloobrite_deepslate_ore",
-    "first_mod:gloobrite_block"
+    "first_mod:goobrite_ore",
+    "first_mod:goobrite_deepslate_ore",
+    "first_mod:goobrite_block"
   ]
 }

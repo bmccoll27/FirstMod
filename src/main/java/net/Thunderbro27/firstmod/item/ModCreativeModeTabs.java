@@ -57,9 +57,9 @@ public class ModCreativeModeTabs {
                         output.accept(ModBlocks.RUBY_SLABS.get());
                         output.accept(ModBlocks.RUBY_WALLS.get());
                         output.accept(ModBlocks.RUBY_TRAPDOOR.get());
-                        output.accept(ModBlocks.GLOOBRITE_BLOCK.get());
-                        output.accept(ModBlocks.GLOOBRITE_ORE.get());
-                        output.accept(ModBlocks.GLOOBRITE_DEEPSLATE_ORE.get());
+                        output.accept(ModBlocks.GOOBRITE_BLOCK.get());
+                        output.accept(ModBlocks.GOOBRITE_ORE.get());
+                        output.accept(ModBlocks.GOOBRITE_DEEPSLATE_ORE.get());
                         output.accept(ModBlocks.CONVERTER.get());
                         output.accept(ModBlocks.RUBY_LAMP.get());
                     })

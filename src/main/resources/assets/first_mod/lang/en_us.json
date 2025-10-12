@@ -9,7 +9,7 @@
 
 
   "item.first_mod.rock": "Rock",
-  "item.first_mod.gloobrite": "Gloobrite",
+  "item.first_mod.goobrite": "Goobrite",
   "item.first_mod.ruby": "Ruby",
 
   "item.first_mod.ruby_pick": "Ruby Pickaxe",
@@ -42,8 +42,8 @@
   "block.first_mod.ruby_ore": "Ruby Ore",
   "block.first_mod.ruby_deepslate_ore": "Deepslate Ruby Ore",
   "block.first_mod.converter": "Converter",
-  "block.first_mod.sugilite_ore": "Sugilite Ore",
-  "block.first_mod.sugilite_deepslate_ore": "Sugilite Ore",
-  "block.first_mod.sugilite_block": "Gloobrite Block",
-  "item.first_mod.gloobrite_pickaxe": "Gloobrite Pickaxe"
+  "block.first_mod.goobrite_ore": "Goobrite Ore",
+  "block.first_mod.goobrite_deepslate_ore": "Deepslate Goobrite Ore",
+  "block.first_mod.goobrite_block": "Goobrite Block",
+  "item.first_mod.goobrite_pickaxe": "Goobrite Pickaxe"
 }

@@ -24,18 +24,18 @@ public class ModBlockTagProvider extends BlockTagsProvider {
                 .add(ModBlocks.RUBY_ORE.get())
                 .add(ModBlocks.RUBY_DEEPSLATE_ORE.get())
                 .add(ModBlocks.CONVERTER.get())
-                .add(ModBlocks.GLOOBRITE_ORE.get())
-                .add(ModBlocks.GLOOBRITE_DEEPSLATE_ORE.get())
-                .add(ModBlocks.GLOOBRITE_BLOCK.get());
+                .add(ModBlocks.GOOBRITE_ORE.get())
+                .add(ModBlocks.GOOBRITE_DEEPSLATE_ORE.get())
+                .add(ModBlocks.GOOBRITE_BLOCK.get());
 
     tag(BlockTags.NEEDS_DIAMOND_TOOL)
             .add(ModBlocks.RUBY_ORE.get())
             .add(ModBlocks.RUBY_DEEPSLATE_ORE.get())
-            .add(ModBlocks.GLOOBRITE_ORE.get())
-            .add(ModBlocks.GLOOBRITE_DEEPSLATE_ORE.get())
-            .add(ModBlocks.GLOOBRITE_ORE.get())
-            .add(ModBlocks.GLOOBRITE_DEEPSLATE_ORE.get())
-            .add(ModBlocks.GLOOBRITE_BLOCK.get());
+            .add(ModBlocks.GOOBRITE_ORE.get())
+            .add(ModBlocks.GOOBRITE_DEEPSLATE_ORE.get())
+            .add(ModBlocks.GOOBRITE_ORE.get())
+            .add(ModBlocks.GOOBRITE_DEEPSLATE_ORE.get())
+            .add(ModBlocks.GOOBRITE_BLOCK.get());
 
         tag(BlockTags.FENCES).add(ModBlocks.RUBY_FENCE.get());
     tag(BlockTags.FENCE_GATES).add(ModBlocks.RUBY_FENCE_GATE.get());
@@ -45,9 +45,9 @@ public class ModBlockTagProvider extends BlockTagsProvider {
     tag(ModTags.Blocks.NEEDS_RUBY_TOOL)
             .add(ModBlocks.RUBY_ORE.get())
             .add(ModBlocks.RUBY_DEEPSLATE_ORE.get())
-            .add(ModBlocks.GLOOBRITE_ORE.get())
-            .add(ModBlocks.GLOOBRITE_DEEPSLATE_ORE.get())
-            .add(ModBlocks.GLOOBRITE_BLOCK.get())
+            .add(ModBlocks.GOOBRITE_ORE.get())
+            .add(ModBlocks.GOOBRITE_DEEPSLATE_ORE.get())
+            .add(ModBlocks.GOOBRITE_BLOCK.get())
             .addTag(BlockTags.NEEDS_DIAMOND_TOOL);
     tag(ModTags.Blocks.INCORRECT_FOR_RUBY_TOOL)
             .addTag(BlockTags.INCORRECT_FOR_DIAMOND_TOOL)

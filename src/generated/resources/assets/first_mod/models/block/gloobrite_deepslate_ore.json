@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:block/cube_all",
-  "textures": {
-    "all": "first_mod:block/gloobrite_deepslate_ore"
-  }
-}

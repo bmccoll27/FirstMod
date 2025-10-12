@@ -25,9 +25,9 @@ public class ModBlockStateProvider extends BlockStateProvider {
         blockWithItem(ModBlocks.RUBY_BLOCK);
         blockWithItem(ModBlocks.RUBY_DEEPSLATE_ORE);
         blockWithItem(ModBlocks.RUBY_ORE);
-        blockWithItem(ModBlocks.GLOOBRITE_BLOCK);
-        blockWithItem(ModBlocks.GLOOBRITE_ORE);
-        blockWithItem(ModBlocks.GLOOBRITE_DEEPSLATE_ORE);
+        blockWithItem(ModBlocks.GOOBRITE_BLOCK);
+        blockWithItem(ModBlocks.GOOBRITE_ORE);
+        blockWithItem(ModBlocks.GOOBRITE_DEEPSLATE_ORE);
         blockWithItem(ModBlocks.CONVERTER);
         slabBlock(ModBlocks.RUBY_SLABS.get(), blockTexture(ModBlocks.RUBY_BLOCK.get()), blockTexture(ModBlocks.RUBY_BLOCK.get()));
         buttonBlock(ModBlocks.RUBY_BUTTON.get(), blockTexture(ModBlocks.RUBY_BLOCK.get()));
