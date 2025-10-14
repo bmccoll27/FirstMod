@@ -1,8 +1,8 @@
-// 1.21	2025-03-15T13:04:04.379271	Loot Tables
+// 1.21	2025-06-02T00:13:19.4105145	Loot Tables
 b4425213e057c959274b51e64697984fa54019bf data/first_mod/loot_table/blocks/converter.json
-174c13c0d4e5e859596632a0a7b7673c617d27f2 data/first_mod/loot_table/blocks/gloobrite_block.json
-ba8fc5ebd83d61e0d33cd3336b42efc4ab97cd50 data/first_mod/loot_table/blocks/gloobrite_deepslate_ore.json
-c2ea54efaa7bd48878cdce7974349cb5f1e2fe71 data/first_mod/loot_table/blocks/gloobrite_ore.json
+0169358b8769bc93ebec9e4c200b99396b1d426f data/first_mod/loot_table/blocks/goobrite_block.json
+8a75288994e3926332cc7df110415718d83cd6b5 data/first_mod/loot_table/blocks/goobrite_deepslate_ore.json
+9581fa69ca2286fb200eefcd68265f7657ab09be data/first_mod/loot_table/blocks/goobrite_ore.json
 be136c9d15662f549283d25b2caed04906e762a9 data/first_mod/loot_table/blocks/ruby_block.json
 79b9a234a5c7e6a327674a120c5ddfb9bc18cb0f data/first_mod/loot_table/blocks/ruby_button.json
 64d999281dd3d19736b9b56ac27d5fe59de41f74 data/first_mod/loot_table/blocks/ruby_deepslate_ore.json

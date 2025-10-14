@@ -1,12 +1,12 @@
-// 1.21	2025-05-15T13:49:27.688291	Item Models: first_mod
+// 1.21	2025-06-02T00:13:19.4074517	Item Models: first_mod
 359845bae5c4731b7bc14879d49236ac804e03cc assets/first_mod/models/item/coconut.json
 8d628ec63eaa4efc8fb12961b500fb290879714c assets/first_mod/models/item/coconut_water.json
-b653320f9047853b725900d1a5d4cfe17efbcc32 assets/first_mod/models/item/gloobrite.json
+0fc2c39922906005485349fe4bff1ac2f440e4f1 assets/first_mod/models/item/goobrite.json
 35cc48072372dad03e79b5fe31071f1b99fc6e26 assets/first_mod/models/item/goobrite_pickaxe.json
 26a8095df401fa950a829c36716b2a35c999e2e8 assets/first_mod/models/item/rock.json
 6906ce82c1f6d031dc43b67fb0d2e336fddf3696 assets/first_mod/models/item/ruby.json
 e3c50bffa648ecb78b3cd83166a74762be7ed9dd assets/first_mod/models/item/ruby_axe.json
-354c38e602e92bc7196c48737d7162b1dad240ff assets/first_mod/models/item/ruby_boots.json
+07d7ded92158ded16838d8cbf34bbd2f7d8d9a68 assets/first_mod/models/item/ruby_boots.json
 9f3aee6ede435c2e557fc9ae29db9e198664d029 assets/first_mod/models/item/ruby_boots_amethyst_trim.json
 474169fb2efafccb6317f7f2912c0d63d3338504 assets/first_mod/models/item/ruby_boots_copper_trim.json
 dbcc011cc26224113467af04cfaf2b501162924e assets/first_mod/models/item/ruby_boots_diamond_trim.json
@@ -18,7 +18,7 @@ b1c0f5d6248ea50ad8b9c7b7151c4019b578dce1 assets/first_mod/models/item/ruby_boots
 95b7cd347c5d5c0d5bbc4953cc44b232f7db936d assets/first_mod/models/item/ruby_boots_quartz_trim.json
 439a279f00cf5f2fc482fc151874ea98d4884909 assets/first_mod/models/item/ruby_boots_redstone_trim.json
 9e39aec4d5f969c5ffc3b4bbc1faae765f93bd92 assets/first_mod/models/item/ruby_button.json
-ce2aebb930c585fb2c953b7d147b7887ea57846e assets/first_mod/models/item/ruby_chestplate.json
+bdcfa8a3a6bcbe20919bf517ce0e0b6dc1c647f6 assets/first_mod/models/item/ruby_chestplate.json
 e491ed974ca7fa34263816fef4b07b3a8670c267 assets/first_mod/models/item/ruby_chestplate_amethyst_trim.json
 b273826da71d193435bb851ebf615b2755fc4f5d assets/first_mod/models/item/ruby_chestplate_copper_trim.json
 d4abc8272b45fcc3b19fcd8a483e3127279883af assets/first_mod/models/item/ruby_chestplate_diamond_trim.json
@@ -33,7 +33,7 @@ e61040d31d717fcc71e528a69664cfa2f5d27991 assets/first_mod/models/item/ruby_chise
 957aed2db910f62b3b7f2a1a7e2eca6adf9412e9 assets/first_mod/models/item/ruby_door.json
 ad8e41af1fb5ffb57328a497c08abd579d16df61 assets/first_mod/models/item/ruby_fence.json
 ae391e96f73df64ba66d8667a7437ca717fc0620 assets/first_mod/models/item/ruby_hammer.json
-4a06ee2c38e1e0a12c1b80f1a6eb568d6a88cc4f assets/first_mod/models/item/ruby_helmet.json
+f2da8a006efd65da4ae5666cba91ff04d5f5f3da assets/first_mod/models/item/ruby_helmet.json
 9d1a0a74aadecdae1c2da0e7bd3432f40052c3ad assets/first_mod/models/item/ruby_helmet_amethyst_trim.json
 fb94d417aca7d4b8ed2b6460158dcd3b4b023eb9 assets/first_mod/models/item/ruby_helmet_copper_trim.json
 c88420b4821882ad379cfab9a8d9225c2531de49 assets/first_mod/models/item/ruby_helmet_diamond_trim.json
@@ -45,7 +45,7 @@ a08def5b74e76620ff908a3626d011fc01820803 assets/first_mod/models/item/ruby_helme
 7347a464df7e5e01db2cbda6f471cb4b0dabd126 assets/first_mod/models/item/ruby_helmet_quartz_trim.json
 a1eadc62510fa3f3c62c9759a3e4bf930f6efd5c assets/first_mod/models/item/ruby_helmet_redstone_trim.json
 99030be6b2b920429b3e11f244d9b9d9caffec6d assets/first_mod/models/item/ruby_hoe.json
-59487a02fc1b6571f16da2662aad5a834d07961b assets/first_mod/models/item/ruby_leggings.json
+4e19dd0418af69747be157367a81fe01006dd8eb assets/first_mod/models/item/ruby_leggings.json
 f145b19891f521474bd88329e8087689cf7e1971 assets/first_mod/models/item/ruby_leggings_amethyst_trim.json
 1e992554580f9419fc428432742ec855083d066d assets/first_mod/models/item/ruby_leggings_copper_trim.json
 7dae4f2a6538d1df8ff28680fd847650cc0f7768 assets/first_mod/models/item/ruby_leggings_diamond_trim.json
