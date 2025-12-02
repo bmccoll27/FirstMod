@@ -23,7 +23,7 @@ public class ModItems {
             () -> new PickaxeItem(ModToolTier.RUBY, new Item.Properties()
                     .attributes(PickaxeItem.createAttributes(ModToolTier.RUBY,1f,-2.8f))));
     public static final RegistryObject<Item> RUBY_SWORD = ITEMS.register("ruby_sword",
-            () -> new SwordItem(ModToolTier.RUBY, new Item.Properties()Y
+            () -> new SwordItem(ModToolTier.RUBY, new Item.Properties()
                     //Adding item property to the sword: The lower your Y level, the more dmg it does.
                     .attributes(SwordItem.createAttributes(ModToolTier.RUBY,3,-2.4f))));
     public static final RegistryObject<Item> RUBY_AXE = ITEMS.register("ruby_axe",
