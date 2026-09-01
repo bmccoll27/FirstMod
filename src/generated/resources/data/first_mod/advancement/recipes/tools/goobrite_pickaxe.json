@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_goobrite": {
+      "conditions": {
+        "items": [
+          {
+            "items": "first_mod:goobrite_pickaxe"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "first_mod:goobrite_pickaxe"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_goobrite"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "first_mod:goobrite_pickaxe"
+    ]
+  }
+}

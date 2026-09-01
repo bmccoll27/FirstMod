@@ -98,6 +98,24 @@ public class ModRecipeProvider extends RecipeProvider implements IConditionBuild
                 .unlockedBy(getHasName(ModItems.RUBY.get()), has(ModItems.RUBY_HOE.get()))
                 .save(recipeOutput);
 
+        ShapedRecipeBuilder.shaped(RecipeCategory.COMBAT, ModItems.RUBY_HAMMER.get())
+                .pattern("RRR")
+                .pattern("RRR")
+                .pattern(" / ")
+                .define('R', ModItems.RUBY.get())
+                .define('/', Items.STICK)
+                .unlockedBy(getHasName(ModItems.RUBY.get()), has(ModItems.RUBY_HAMMER.get()))
+                .save(recipeOutput);
+
+        ShapedRecipeBuilder.shaped(RecipeCategory.TOOLS, ModItems.GOOBRITE_PICKAXE.get())
+                .pattern("GGG")
+                .pattern(" / ")
+                .pattern(" / ")
+                .define('G', ModItems.GOOBRITE.get())
+                .define('/', Items.STICK)
+                .unlockedBy(getHasName(ModItems.GOOBRITE.get()), has(ModItems.GOOBRITE_PICKAXE.get()))
+                .save(recipeOutput);
+
         ShapedRecipeBuilder.shaped(RecipeCategory.MISC, ModBlocks.CONVERTER.get())
                 .pattern("AAA")
                 .pattern("AEA")
@@ -106,6 +124,47 @@ public class ModRecipeProvider extends RecipeProvider implements IConditionBuild
                 .define('E', Items.ENDER_EYE)
                 .unlockedBy(getHasName(ModItems.RUBY.get()), has(ModBlocks.CONVERTER.get()))
                 .save(recipeOutput);
+
+        ShapedRecipeBuilder.shaped(RecipeCategory.COMBAT, ModItems.RUBY_HELMET.get())
+                .pattern("RRR")
+                .pattern("R R")
+                .pattern("   ")
+                .define('R', ModItems.RUBY.get())
+                .unlockedBy(getHasName(ModItems.RUBY.get()), has(ModItems.RUBY_HELMET.get()))
+                .save(recipeOutput);
+
+        ShapedRecipeBuilder.shaped(RecipeCategory.COMBAT, ModItems.RUBY_CHESTPLATE.get())
+                .pattern("R R")
+                .pattern("RRR")
+                .pattern("RRR")
+                .define('R', ModItems.RUBY.get())
+                .unlockedBy(getHasName(ModItems.RUBY.get()), has(ModItems.RUBY_CHESTPLATE.get()))
+                .save(recipeOutput);
+
+        ShapedRecipeBuilder.shaped(RecipeCategory.COMBAT, ModItems.RUBY_LEGGINGS.get())
+                .pattern("RRR")
+                .pattern("R R")
+                .pattern("R R")
+                .define('R', ModItems.RUBY.get())
+                .unlockedBy(getHasName(ModItems.RUBY.get()), has(ModItems.RUBY_LEGGINGS.get()))
+                .save(recipeOutput);
+
+        ShapedRecipeBuilder.shaped(RecipeCategory.COMBAT, ModItems.RUBY_BOOTS.get())
+                .pattern("   ")
+                .pattern("R R")
+                .pattern("R R")
+                .define('R', ModItems.RUBY.get())
+                .unlockedBy(getHasName(ModItems.RUBY.get()), has(ModItems.RUBY_BOOTS.get()))
+                .save(recipeOutput);
+
+        //Not Working yet
+        ShapedRecipeBuilder.shaped(RecipeCategory.BUILDING_BLOCKS, Items.COBBLESTONE)
+                        .pattern("RR ")
+                        .pattern("RR ")
+                        .pattern("   ")
+                        .define('R', ModItems.ROCK.get())
+                        .unlockedBy(Items.COBBLESTONE.toString(), has(ModItems.ROCK.get()))
+                        .save(recipeOutput);
 
 
 
