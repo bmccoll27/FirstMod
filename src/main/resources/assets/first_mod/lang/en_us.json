@@ -45,5 +45,8 @@
   "block.first_mod.goobrite_ore": "Goobrite Ore",
   "block.first_mod.goobrite_deepslate_ore": "Deepslate Goobrite Ore",
   "block.first_mod.goobrite_block": "Goobrite Block",
-  "item.first_mod.goobrite_pickaxe": "Goobrite Pickaxe"
+  "item.first_mod.goobrite_pickaxe": "Goobrite Pickaxe",
+
+  "enchantment.first_mod.thundering": "Thundering",
+  "enchantment.first_mod.exploding": "Exploding"
 }

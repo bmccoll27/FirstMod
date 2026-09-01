@@ -3,6 +3,7 @@ package net.Thunderbro27.firstmod;
 import com.mojang.logging.LogUtils;
 import net.Thunderbro27.firstmod.block.ModBlocks;
 import net.Thunderbro27.firstmod.component.ModDataComponent;
+import net.Thunderbro27.firstmod.enchantments.ModEnchantmentEffects;
 import net.Thunderbro27.firstmod.item.ModCreativeModeTabs;
 import net.Thunderbro27.firstmod.util.ModItemProperties;
 import net.Thunderbro27.firstmod.item.ModItems;
@@ -44,6 +45,8 @@ public class MyFirstMod
         ModItems.register(modEventBus);
         ModBlocks.register(modEventBus);
         ModDataComponent.register(modEventBus);
+        // Register enchantment effect codecs so datagen and runtime know about them
+        ModEnchantmentEffects.register(modEventBus);
 
 
 

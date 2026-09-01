@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "minecraft:cobblestone"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    },
+    "minecraft:cobblestone": {
+      "conditions": {
+        "items": [
+          {
+            "items": "first_mod:rock"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "minecraft:cobblestone"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "minecraft:cobblestone"
+    ]
+  }
+}

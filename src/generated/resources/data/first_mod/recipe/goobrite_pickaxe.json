@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "/": {
+      "item": "minecraft:stick"
+    },
+    "G": {
+      "item": "first_mod:goobrite"
+    }
+  },
+  "pattern": [
+    "GGG",
+    " / ",
+    " / "
+  ],
+  "result": {
+    "count": 1,
+    "id": "first_mod:goobrite_pickaxe"
+  }
+}
